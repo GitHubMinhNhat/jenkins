@@ -1,4 +1,5 @@
 <?php
+// toi ten nhat
     $open = "admin";
     require_once __DIR__. "/../../autoload/autoload.php";
 chan qua di
