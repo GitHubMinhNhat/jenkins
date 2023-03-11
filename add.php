@@ -1,5 +1,5 @@
 <?php
-// toi ten nhat
+// kiem tra giua ki
     $open = "admin";
     require_once __DIR__. "/../../autoload/autoload.php";
 chan qua di
